@@ -1,0 +1,24 @@
+.content .slider-for img {
+    cursor: pointer;
+}
+
+.content .slider-nav {
+    text-align: center;
+    margin-top: 20px;
+    
+   
+}
+
+.content .slider-nav a {
+    color: #000;
+    font-size: 20px;
+
+}
+
+.product2 {
+    border-left: 1px solid #000;
+}
+
+.product2.slick-slide.slick-current.slick-active {
+    font-weight: bold;
+}
